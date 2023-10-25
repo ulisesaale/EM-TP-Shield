@@ -8,3 +8,6 @@ c) Como funciona el integrado mcp3421 y como lo utilizaría para construir una s
 d) Que es el controlador ssd1306(i2c). Existe alguna shield para controlar una pantalla oled 128x64?; si es así, implemente una practica donde muestre el mensaje “Es fácil el desarrollo con shields”.  
 e) Un teclado, tipo telefónico, de membrana es una shield?; El conjunto {teclado + librerías de uso + repositorio (implementación, ejemplos, etc)} es una shield?  
 f) Explique con sus propias palabras que es una shield.
+
+
+![final](/assets/Curso%20ISPC.png)

@@ -1,7 +1,7 @@
 ![logo](/assets/encabezado.png)
 
 ![line](/assets/line.png)
-                           Shields v1.0
+# Shields v1.0
 ![line](/assets/line.png)
 
 ### Bienvenido a las practicas con sistemas embebidos, en la misma desarrollaremos la ejercitación del lenguaje  CPP para sistemas embebidos con VsCode @ PlatformIO, con el framework de Arduino.
